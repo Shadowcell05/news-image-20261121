@@ -3,7 +3,7 @@
 A one-image front page summing up the world news of **Saturday 21 November 2026**,
 entered in make.fun's News Image competition for that day. Built to the boards'
 winning formula: **48 verified stories, six continents, one page** — with
-per-story pictograms, a UTC timeline of the day, an explicit date-check band,
+sixteen per-story pictograms, a UTC timeline of the day, an explicit date-check band,
 a dot-matrix world map and a day-in-figures box.
 
 [![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
